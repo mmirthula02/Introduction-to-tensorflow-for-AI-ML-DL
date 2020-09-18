@@ -4,3 +4,4 @@ Tensorflow - Coursera programming assisgnments solutions
 
 - Week 1 - Predicting house prices
 - Week 2 - Handwriting recognition MNIST 
+- Week 3 - Improve Fashion MNIST using Convolutions
