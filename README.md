@@ -7,6 +7,3 @@ Tensorflow - Coursera programming assisgnments solutions
 - Week 3 - Improve Fashion MNIST using Convolutions
 - Week 4 - Handling complex images
 
-❮img src="images/you-picture.png" ❯
-
-❮img src="images/you-picture.png" width="100" ❯
